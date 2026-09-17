@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Tetris Game - Classic Puzzle Action | Play Online</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Play Tetris online for free! The classic puzzle game that tests your reaction and strategy skills. Built with Godot engine, runs smoothly on all modern browsers.">
+        <meta name="keywords" content="tetris,puzzle game,online game,free game,browser game,godot game">
+        <meta name="robots" content="noindex, follow">
+        <link rel="canonical" href="https://webgames.fun/games/tetris/">
+        
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="favicon.png">
+        
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: #1D283C;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                flex-direction: column;
+            }
+            canvas {
+                max-width: 100%;
+                max-height: 100%;
+                background-color: #1D283C;
+            }
+            .game-info {
+                display: none;
+            }
+            #loading-screen {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.8);
+                color: white;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            #loading-screen img {
+                width: 150px;
+                height: auto;
+                margin-bottom: 28px;
+            }
+            .progress-wrapper {
+                position: relative;
+                width: 140px;
+                height: 8px;
+                border-radius: 16px;
+                background-color: #38475E;
+            }
+            #progress-bar {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 0;
+                height: 100%;
+                min-width: 6%;
+                display: block;
+                height: 100%;
+                border-radius: 16px;
+                background-color: #00D3F2;
+                transition: width 0.5s;
+            }
+        </style>
+    </head>
+    <body>
+        <canvas id="canvas"></canvas>
+
+        <div id="loading-screen">
+            <img src="index.180x180.png" />
+            <h1 style="color: #00D3F2; margin: 0 0 20px 0; font-family: Arial, sans-serif;">Tetris</h1>
+            <div class="progress-wrapper">
+                <div id="progress-bar"></div>
+            </div>
+          </div>
+        
+        <!-- Content visible to search engines but hidden from users -->
+        <div class="game-info">
+            <h1>Play Tetris Online</h1>
+            <p>Welcome to the classic Tetris game! Developed with the Godot engine, this version lets you enjoy the block-stacking fun anytime, anywhere.</p>
+            <p>Tetris is the iconic puzzle game that tests players' spatial reasoning and reaction time, created by Russian programmer Alexey Pajitnov in 1984.</p>
+            <p>Game rules are simple: control the falling tetromino pieces and arrange them to create complete horizontal lines that clear from the board. As the game progresses, pieces fall faster, increasing the challenge.</p>
+            <h2>How to Play Tetris</h2>
+            <ul>
+                <li>Use arrow keys or WASD to move and rotate pieces</li>
+                <li>Complete horizontal lines to clear them and score points</li>
+                <li>Avoid letting the stack reach the top of the playing field</li>
+                <li>Plan ahead to create spaces for upcoming pieces</li>
+            </ul>
+            <h2>Game Features</h2>
+            <ul>
+                <li>Classic Tetris gameplay with modern performance</li>
+                <li>Progressive difficulty as you improve</li>
+                <li>Responsive controls optimized for keyboard</li>
+                <li>Works on all modern browsers without plugins</li>
+            </ul>
+        </div>
+        
+        <script src="index.js"></script>
+        <script>
+            var engine = new Engine({"args":[],"canvasResizePolicy":2,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":17615184,"index.wasm":35376909},"focusCanvas":true,"gdextensionLibs":[],"serviceWorker":"index.service.worker.js"});
+            engine.startGame({
+                onProgress: function(current, total) {
+                    var progress = (current / total) * 100;
+                    document.getElementById("progress-bar").style.width = progress + "%";
+                }
+            }).then(()=>{
+                document.getElementById("loading-screen").style.display = "none";
+            })
+        </script>
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-W505B884TW"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-W505B884TW');
+        </script>
+    </body>
+</html>
