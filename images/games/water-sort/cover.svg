@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="glass"><stop stop-color="#fff" stop-opacity=".65"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".45"/></linearGradient></defs>
+<rect width="1200" height="630" fill="#fff3e4"/>
+<text x="72" y="83" fill="#b08760" font-family="sans-serif" font-size="15" letter-spacing="5">A COZY LITTLE COLOR BREAK</text>
+<text x="72" y="166" fill="#70472e" font-family="serif" font-size="66">Water Sort</text>
+<text x="1128" y="154" text-anchor="end" fill="#ac855d" font-family="sans-serif" font-size="22">137 PUZZLES · FIND YOUR FLOW</text>
+<rect x="52" y="211" width="1096" height="361" rx="28" fill="#fff8ec" stroke="#f0c9a5"/><defs><clipPath id="t0"><rect x="219" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="245" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="215" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t0)"><rect x="219" y="438" width="52" height="46" fill="#f6ce4c"/><rect x="219" y="392" width="52" height="46" fill="#f6ce4c"/><rect x="219" y="346" width="52" height="46" fill="#f47776"/><rect x="219" y="300" width="52" height="46" fill="#75bad9"/></g><rect x="218" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M225 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="245" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="245" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">01</text><defs><clipPath id="t1"><rect x="361" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="387" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="357" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t1)"><rect x="361" y="438" width="52" height="46" fill="#67bf92"/><rect x="361" y="392" width="52" height="46" fill="#67bf92"/><rect x="361" y="346" width="52" height="46" fill="#67bf92"/><rect x="361" y="300" width="52" height="46" fill="#f6ce4c"/></g><rect x="360" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M367 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="387" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="387" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">02</text><defs><clipPath id="t2"><rect x="503" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="529" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="499" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t2)"><rect x="503" y="438" width="52" height="46" fill="#f47776"/><rect x="503" y="392" width="52" height="46" fill="#f47776"/><rect x="503" y="346" width="52" height="46" fill="#75bad9"/><rect x="503" y="300" width="52" height="46" fill="#75bad9"/></g><rect x="502" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M509 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="529" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="529" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">03</text><defs><clipPath id="t3"><rect x="645" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="671" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="641" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t3)"><rect x="645" y="438" width="52" height="46" fill="#f47776"/><rect x="645" y="392" width="52" height="46" fill="#75bad9"/><rect x="645" y="346" width="52" height="46" fill="#67bf92"/><rect x="645" y="300" width="52" height="46" fill="#f6ce4c"/></g><rect x="644" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M651 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="671" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="671" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">04</text><defs><clipPath id="t4"><rect x="787" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="813" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="783" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t4)"></g><rect x="786" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M793 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="813" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="813" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">05</text><defs><clipPath id="t5"><rect x="929" y="275" width="52" height="209" rx="25"/></clipPath></defs>
+  <ellipse cx="955" cy="501" rx="42" ry="7" fill="#f7dabb"/>
+  <rect x="925" y="266" width="60" height="226" rx="30" fill="#fff" fill-opacity=".45" stroke="#d6b699" stroke-width="2"/><g clip-path="url(#t5)"></g><rect x="928" y="273" width="54" height="215" rx="26" fill="url(#glass)"/>
+  <path d="M935 284V460" stroke="#fff" stroke-opacity=".8" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="955" cy="269" rx="32" ry="4" fill="#fff8ed" stroke="#d6b699" stroke-width="2"/>
+  <text x="955" y="536" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9c8161">06</text><text x="72" y="606" fill="#b08d64" font-family="sans-serif" font-size="15" letter-spacing="2">SORT THE COLORS. CLEAR YOUR MIND.</text><text x="1128" y="606" text-anchor="end" fill="#90724f" font-family="sans-serif" font-size="17">webgames.fun</text><svg x="977" y="-10" width="147" height="147" viewBox="0 0 627 627"><image href="cozy-sprites.webp" width="1254" height="1254"/></svg><svg x="897" y="16" width="98" height="98" viewBox="627 0 627 627"><image href="cozy-sprites.webp" width="1254" height="1254"/></svg><svg x="1022" y="453" width="105" height="105" viewBox="0 627 627 627"><image href="cozy-sprites.webp" width="1254" height="1254"/></svg><svg x="66" y="412" width="145" height="145" viewBox="627 627 627 627"><image href="cozy-sprites.webp" width="1254" height="1254"/></svg></svg>

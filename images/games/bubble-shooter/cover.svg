@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Colorful bubble shooter game">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff5e9"/><stop offset="1" stop-color="#f9d9b9"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="225" y="35" width="750" height="505" rx="48" fill="#fff8ed" stroke="#ebc39f" stroke-width="12"/>
+  <g stroke="#a67e5b" stroke-opacity=".28" stroke-width="3">
+    <circle cx="360" cy="125" r="48" fill="#f47776"/><circle cx="465" cy="125" r="48" fill="#75bad9"/><circle cx="570" cy="125" r="48" fill="#67bf92"/><circle cx="675" cy="125" r="48" fill="#f6ce4c"/><circle cx="780" cy="125" r="48" fill="#ad85c4"/>
+    <circle cx="412" cy="216" r="48" fill="#75bad9"/><circle cx="517" cy="216" r="48" fill="#67bf92"/><circle cx="622" cy="216" r="48" fill="#f6ce4c"/><circle cx="727" cy="216" r="48" fill="#f47776"/>
+    <circle cx="465" cy="307" r="48" fill="#67bf92"/><circle cx="570" cy="307" r="48" fill="#f6ce4c"/><circle cx="675" cy="307" r="48" fill="#75bad9"/>
+    <circle cx="570" cy="470" r="48" fill="#f6ce4c"/>
+  </g>
+  <path d="M570 405V370" stroke="#b58960" stroke-opacity=".6" stroke-width="6" stroke-linecap="round" stroke-dasharray="8 14"/>
+  <text x="600" y="602" fill="#785337" font-family="sans-serif" font-size="54" font-weight="800" text-anchor="middle">益智泡泡龙</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webgames.fun/sitemap-index.xml
